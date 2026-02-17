@@ -6,9 +6,16 @@
   "heroLine": "Distribution is not the art. It is the spine.",
   "heroSub": "Masters and release discipline. A quiet structure for long-horizon work.",
   "nav": [
-    { "label": "Roster", "href": "#roster", "external": false },
-    { "label": "Catalog", "href": "#catalog", "external": false },
-    { "label": "Contact", "href": "mailto:contact@contactrecordz.com", "external": true }
+    {
+      "label": "HVLI3N",
+      "href": "https://hvli3n.com",
+      "external": true
+    },
+    {
+      "label": "ABDUCTED FLOW",
+      "href": "https://abductedflow.com",
+      "external": true
+    }
   ],
   "sections": [
     {
@@ -16,7 +23,11 @@
       "title": "HVLI3N",
       "body": "Primary embodiment. Field work and studio transmission.",
       "links": [
-        { "label": "hvli3n.com", "href": "https://hvli3n.com", "external": true }
+        {
+          "label": "hvli3n.com",
+          "href": "https://hvli3n.com",
+          "external": true
+        }
       ]
     },
     {
@@ -30,7 +41,11 @@
       "title": "© / ℗",
       "body": "Masters administered here. Publishing maintained separately.",
       "links": [
-        { "label": "abductedflow.com", "href": "https://abductedflow.com", "external": true }
+        {
+          "label": "abductedflow.com",
+          "href": "https://abductedflow.com",
+          "external": true
+        }
       ]
     }
   ],
