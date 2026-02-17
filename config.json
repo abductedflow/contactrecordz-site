@@ -1,0 +1,39 @@
+{
+  "metaTitle": "CONTACT RECORDZ",
+  "metaDescription": "Label infrastructure. Masters, releases, and transmissions.",
+  "wordmark": "CONTACT RECORDZ",
+  "tagline": "Label / infrastructure. Minimal surface. Durable catalog.",
+  "heroLine": "Distribution is not the art. It is the spine.",
+  "heroSub": "Masters and release discipline. A quiet structure for long-horizon work.",
+  "nav": [
+    { "label": "Roster", "href": "#roster", "external": false },
+    { "label": "Catalog", "href": "#catalog", "external": false },
+    { "label": "Contact", "href": "mailto:contact@contactrecordz.com", "external": true }
+  ],
+  "sections": [
+    {
+      "kicker": "roster",
+      "title": "HVLI3N",
+      "body": "Primary embodiment. Field work and studio transmission.",
+      "links": [
+        { "label": "hvli3n.com", "href": "https://hvli3n.com", "external": true }
+      ]
+    },
+    {
+      "kicker": "catalog",
+      "title": "Catalog",
+      "body": "Minimal index. Full archive lives with the work.",
+      "links": []
+    },
+    {
+      "kicker": "rights",
+      "title": "© / ℗",
+      "body": "Masters administered here. Publishing maintained separately.",
+      "links": [
+        { "label": "abductedflow.com", "href": "https://abductedflow.com", "external": true }
+      ]
+    }
+  ],
+  "footerLeft": "© CONTACT RECORDZ",
+  "footerRight": "infrastructure"
+}
